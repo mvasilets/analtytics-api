@@ -1,1 +1,3 @@
 rootProject.name = 'analytics-app'
+include 'analytics-persistence'
+

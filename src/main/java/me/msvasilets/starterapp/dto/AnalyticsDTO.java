@@ -1,9 +1,9 @@
-package ru.clevertec.starterapp.dto;
+package me.msvasilets.starterapp.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import ru.clevertec.starterapp.entity.AnalyticsEntryType;
+import me.msvasilets.starterapp.entity.AnalyticsEntryType;
 
 import java.time.LocalDateTime;
 import java.util.Map;
