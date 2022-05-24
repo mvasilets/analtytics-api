@@ -1,4 +1,4 @@
-package ru.clevertec.starterapp;
+package me.msvasilets.starterapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

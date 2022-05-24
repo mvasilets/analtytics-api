@@ -1,4 +1,4 @@
-package ru.clevertec.starterapp.entity;
+package me.msvasilets.starterapp.entity;
 
 public enum AnalyticsEntryType {
     ERROR, SUCCESS, WARNING
